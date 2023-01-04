@@ -26,6 +26,9 @@ We've included a few helper functions to handle some of these concepts and we're
 ```typescript
 import {filterImageFromURL, deleteLocalFiles} from './util/util';
 ```
+# My Elastic BeanStalk Endpoint
+
+http://aws-cloud-image-filter-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/2/25/Siam_lilacpoint.jpg
 
 ### Deploying your system
 
